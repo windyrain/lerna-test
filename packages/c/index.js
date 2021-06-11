@@ -1,4 +1,4 @@
 import { b } from 'b';
 
 b();
-console.log('c');
+console.log('c1');
